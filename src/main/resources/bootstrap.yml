@@ -3,6 +3,6 @@ spring:
     name: service-registry
   cloud:
     config:
-      uri: http://localhost:8090
+      uri: http://nttdata-microservice-config-serve.azurewebsites.net
       username: nttdata
       password: nttd4t4
